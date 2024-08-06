@@ -1,10 +1,5 @@
 F.L.U.D.D datapack made by Stoddle.
 ----------------------------------------
-F.L.U.D.D (resourcepack) goes in your resourcepacks folder
-F.L.U.D.D (datapack) goes in your datapacks folder
-
-Made sure to have the resourcepack enabled when playing or else you won't see the models.
-
 This project periodically uses the actionbar to display information. I am not held accountable for any conflicts with other datapacks you have installed.
 It may be recommended to use this datapack standalone to avoid any problems with other datapacks if you aren't sure what you are doing.
 
