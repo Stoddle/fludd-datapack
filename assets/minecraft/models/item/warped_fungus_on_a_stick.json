@@ -1,0 +1,22 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick"
+    },
+
+    "overrides":[
+     {"predicate": {"custom_model_data":1}, "model":"item/fludd/shoot"},
+     {"predicate": {"custom_model_data":2}, "model":"item/fludd/shoot_standby"},
+     {"predicate": {"custom_model_data":3}, "model":"item/fludd/hover"},
+     {"predicate": {"custom_model_data":4}, "model":"item/fludd/hover_standby"},
+     {"predicate": {"custom_model_data":5}, "model":"item/fludd/rocket"},
+     {"predicate": {"custom_model_data":6}, "model":"item/fludd/rocket_standby"},
+     {"predicate": {"custom_model_data":7}, "model":"item/fludd/turbo"},
+     {"predicate": {"custom_model_data":8}, "model":"item/fludd/turbo_standby"},
+     {"predicate": {"custom_model_data":9}, "model":"item/nozzles/hover"},
+     {"predicate": {"custom_model_data":10}, "model":"item/nozzles/rocket"},
+     {"predicate": {"custom_model_data":11}, "model":"item/nozzles/turbo"},
+     {"predicate": {"custom_model_data":12}, "model":"item/fludd/turbo2"}
+     ]
+
+}

@@ -1,0 +1,62 @@
+{
+ "custom.fludd.squirt": {
+  "sounds": [
+   "custom/fludd/squirt"
+  ]
+ },
+ "custom.fludd.refill": {
+  "sounds": [
+   "custom/fludd/refill"
+  ]
+ },
+ "custom.fludd.empty": {
+  "sounds": [
+   "custom/fludd/empty"
+  ]
+ },
+ "custom.fludd.shoot": {
+  "sounds": [
+   "custom/fludd/shoot"
+  ]
+ },
+ "custom.fludd.shoot_to_special": {
+  "sounds": [
+   "custom/fludd/shoot_to_special"
+  ]
+ },
+ "custom.fludd.special_to_shoot": {
+  "sounds": [
+   "custom/fludd/special_to_shoot"
+  ]
+ },
+ "custom.fludd.power_down": {
+  "sounds": [
+   "custom/fludd/power_down"
+  ]
+ },
+ "custom.fludd.box_kick": {
+  "sounds": [
+   "custom/fludd/box_kick"
+  ]
+ },
+ "custom.fludd.rocket_charge": {
+  "sounds": [
+   "custom/fludd/rocket_charge"
+  ]
+ },
+ "custom.fludd.rocket_launch": {
+  "sounds": [
+   "custom/fludd/rocket_launch"
+  ]
+ },
+ "custom.fludd.turbo_sprinkler": {
+  "sounds": [
+   "custom/fludd/turbo_sprinkler"
+  ]
+ },
+ "custom.fludd.equip_nozzle": {
+  "sounds": [
+   "custom/fludd/equip_nozzle"
+  ]
+ }
+}
