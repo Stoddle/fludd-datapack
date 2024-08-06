@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:bat_spawn_egg",
+        "components": {
+          "minecraft:custom_model_data": 1
+        }
+      },
+      "title": "Twice as powerful",
+      "description": "Craft a blue nozzle box",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "fludd:fludd",
+    "criteria": {
+      "craft hover": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "fludd:hover_recipe"
+        }
+      }
+    }
+  }

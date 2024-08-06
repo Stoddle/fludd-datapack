@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:bat_spawn_egg",
+        "components": {
+          "minecraft:custom_model_data": 3
+        }
+      },
+      "title": "Who needs boats?",
+      "description": "Craft a gray nozzle box",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "fludd:fludd",
+    "criteria": {
+      "craft turbo": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "fludd:turbo_recipe"
+        }
+      }
+    }
+  }

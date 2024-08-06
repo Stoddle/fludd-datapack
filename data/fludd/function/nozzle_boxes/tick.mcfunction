@@ -1,0 +1,1 @@
+execute positioned ~ ~1.5 ~ if entity @a[distance=..1] run execute positioned ~ ~-1.2 ~ if entity @a[distance=..1] run function fludd:nozzle_boxes/open_box

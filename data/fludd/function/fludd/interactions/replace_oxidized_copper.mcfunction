@@ -1,0 +1,9 @@
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 copper_block replace oxidized_copper
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 chiseled_copper replace oxidized_chiseled_copper
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 copper_grate replace oxidized_copper_grate
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 cut_copper replace oxidized_cut_copper
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 cut_copper_stairs replace oxidized_cut_copper_stairs
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 cut_copper_slab replace oxidized_cut_copper_slab
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 copper_door replace oxidized_copper_door
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 copper_trapdoor replace oxidized_copper_trapdoor
+fill ~1 ~1 ~1 ~-1 ~-1 ~-1 copper_bulb replace oxidized_copper_bulb

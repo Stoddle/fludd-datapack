@@ -1,0 +1,2 @@
+execute as @a[scores={fluddRocketEffect=1..}] at @s anchored feet run function fludd:fludd/rocket_nozzle/rocket_effect_selector
+execute if entity @a[scores={fluddRocketEffect=1..}] run schedule function fludd:fludd/rocket_nozzle/rocket_effect_loop 1t

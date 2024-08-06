@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        " # ",
+        "#R#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "R": {
+            "item": "minecraft:gray_dye"
+        }
+    },
+    "result": {
+        "id": "minecraft:bat_spawn_egg",
+        "count": 1,
+        "components": {
+            "item_name": "{\"text\": \"Turbo Nozzle Box\"}",
+            "custom_model_data": 3,
+            "entity_data": {"id":"minecraft:marker","Tags":["spawnGrayNozzleBox","nozzleBoxSpawner"]}
+        }
+    }
+}
