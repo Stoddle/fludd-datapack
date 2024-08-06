@@ -1,7 +1,6 @@
 F.L.U.D.D datapack made by Stoddle.
 ----------------------------------------
-
-Made sure to have the resourcepack enabled when playing to see the models. Resourcepack available on my modrinth page.
+Make sure to have the resourcepack enabled when playing to see the models. Resourcepack available on my modrinth page.
 
 This datapack periodically uses the actionbar to display information. I am not held accountable for any conflicts with other datapacks you have installed.
 It may be recommended to use this datapack standalone to avoid any problems with other datapacks if you aren't sure what you are doing.
