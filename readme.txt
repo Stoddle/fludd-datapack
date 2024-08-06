@@ -19,6 +19,10 @@ It may be recommended to use this datapack standalone to avoid any problems with
 (remember to remove the datapack from the datapacks folder before doing /reload if you wish to uninstall the pack)
 /function fludd:debug/uninstall
 
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. 
+Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use 
+it for commercial purposes, and share any modifications under the same license. See the LICENSE file for more details.
+
 
 
 
