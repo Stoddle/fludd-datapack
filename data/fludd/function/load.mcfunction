@@ -23,8 +23,5 @@ scoreboard objectives add xPos dummy
 scoreboard objectives add yPos dummy
 scoreboard objectives add zPos dummy
 
-scoreboard objectives add oldXPosTurbo dummy
-scoreboard objectives add oldZPosTurbo dummy
-
 team add noCollision
 team modify noCollision collisionRule never
