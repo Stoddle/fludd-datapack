@@ -1,0 +1,66 @@
+[
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:item_model": "fludd:fludd/shoot"
+      },
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "fluddMode": 0
+          }
+        }
+      ]
+    },
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:item_model": "fludd:fludd/hover"
+      },
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "fluddMode": 1,
+            "fluddSpecialType": 0
+          }
+        }
+      ]
+    },
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:item_model": "fludd:fludd/rocket"
+      },
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "fluddMode": 1,
+            "fluddSpecialType": 1
+          }
+        }
+      ]
+    },
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:item_model": "fludd:fludd/turbo"
+      },
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "fluddMode": 1,
+            "fluddSpecialType": 2
+          }
+        }
+      ]
+    }
+  ]
+  

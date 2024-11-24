@@ -2,36 +2,29 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "pattern": [
-        " i ",
-        "gDg",
-        "LBL"
+      " i ",
+      "gdg",
+      "lbl"
     ],
     "key": {
-        "i": {
-            "item": "minecraft:iron_ingot"
-        },
-        "g": {
-            "item": "minecraft:gold_ingot"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "L": {
-            "item": "minecraft:lever"
-        },
-        "B": {
-            "item": "minecraft:bucket"
-        }
+      "i": "minecraft:iron_ingot",
+      "g": "minecraft:gold_ingot",
+      "d": "minecraft:diamond",
+      "l": "minecraft:lever",
+      "b": "minecraft:bucket"
     },
     "result": {
-        "id": "minecraft:warped_fungus_on_a_stick",
-        "count": 1,
-        "components": {
-            "item_name": "{\"text\": \"F.L.U.D.D\"}",
-            "custom_model_data": 1,
-            "custom_data": {
-                "fluddID": 1
-            }
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "count": 1,
+      "components": {
+        "minecraft:item_model": "fludd:fludd/shoot_standby",
+        "minecraft:custom_data": "{fludd:1b}",
+        "minecraft:item_name": "F.L.U.D.D",
+        "minecraft:unbreakable": {
+          "show_in_tooltip": false
         }
-    }
-}
+      }
+    },
+    "show_notification": true
+  }
+  

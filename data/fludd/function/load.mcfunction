@@ -1,7 +1,5 @@
 scoreboard objectives add variables dummy
 scoreboard objectives add moving dummy
-scoreboard objectives add itemIDf dummy
-scoreboard objectives add offhandItemIDf dummy
 scoreboard objectives add click minecraft.used:warped_fungus_on_a_stick
 scoreboard objectives add useSpawnEgg minecraft.used:minecraft.bat_spawn_egg
 

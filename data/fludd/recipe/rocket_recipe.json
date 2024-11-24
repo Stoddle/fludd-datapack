@@ -2,25 +2,25 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "pattern": [
-        " # ",
-        "#R#",
-        " # "
+      " # ",
+      "#a#",
+      " # "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_nugget"
-        },
-        "R": {
-            "item": "minecraft:red_dye"
-        }
+      "#": "minecraft:iron_nugget",
+      "a": "minecraft:red_dye"
     },
     "result": {
-        "id": "minecraft:bat_spawn_egg",
-        "count": 1,
-        "components": {
-            "item_name": "{\"text\": \"Rocket Nozzle Box\"}",
-            "custom_model_data": 2,
-            "entity_data": {"id":"minecraft:marker","Tags":["spawnRedNozzleBox","nozzleBoxSpawner"]}
+      "id": "minecraft:bat_spawn_egg",
+      "count": 1,
+      "components": {
+        "minecraft:item_name": "'Rocket Nozzle Box'",
+        "minecraft:item_model": "fludd:boxes/nozzle_box_red",
+        "minecraft:entity_data": {
+          "id": "marker",
+          "Tags": ["spawnRedNozzleBox","nozzleBoxSpawner"]
         }
-    }
-}
+      }
+    },
+    "show_notification": true
+  }

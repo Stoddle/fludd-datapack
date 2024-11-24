@@ -7,4 +7,6 @@ execute unless block ~ ~ ~1 #minecraft:air run function fludd:fludd/interactions
 execute unless block ~ ~ ~-1 #minecraft:air run function fludd:fludd/interactions/interact_directions/interact_north
 execute unless block ~1 ~ ~ #minecraft:air run function fludd:fludd/interactions/interact_directions/interact_east
 execute unless block ~-1 ~ ~ #minecraft:air run function fludd:fludd/interactions/interact_directions/interact_west
-execute unless block ~ ~-1 ~ #minecraft:air run function fludd:fludd/interactions/interact_directions/interact_down
+execute unless block ~ ~-1 ~ #air run function fludd:fludd/interactions/interact_directions/interact_down
+
+execute if predicate fludd:is_on_ground run function fludd:fludd/water/remove_water

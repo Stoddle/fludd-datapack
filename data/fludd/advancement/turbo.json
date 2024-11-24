@@ -3,11 +3,11 @@
       "icon": {
         "id": "minecraft:bat_spawn_egg",
         "components": {
-          "minecraft:custom_model_data": 3
+          "minecraft:item_model": "fludd:boxes/nozzle_box_grey"
         }
       },
       "title": "Who needs boats?",
-      "description": "Craft a gray nozzle box",
+      "description": "Craft a Turbo Nozzle Box",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

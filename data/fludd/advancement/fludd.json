@@ -3,12 +3,12 @@
       "icon": {
         "id": "minecraft:warped_fungus_on_a_stick",
         "components": {
-          "minecraft:custom_model_data": 1
+          "minecraft:item_model": "fludd:fludd/shoot"
         }
       },
       "title": "Flash Liquidizer Ultra Dousing Device",
       "description": "Obtain a F.L.U.D.D",
-      "background": "minecraft:textures/custom/background_water.png",
+      "background": "fludd:textures/background_water.png",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true
