@@ -3,7 +3,7 @@
       "icon": {
         "id": "minecraft:bat_spawn_egg",
         "components": {
-          "minecraft:item_model": "fludd:boxes/nozzle_box_grey"
+          "minecraft:item_model": "fludd:boxes/nozzle_box_gray"
         }
       },
       "title": "Who needs boats?",
