@@ -2,8 +2,8 @@
 	"credit": "Made by Waxo2",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "custom/fludd/box_grey",
-		"particle": "custom/fludd/box_grey"
+		"2": "fludd:item/box_red",
+		"particle": "fludd:item/box_red"
 	},
 	"elements": [
 		{

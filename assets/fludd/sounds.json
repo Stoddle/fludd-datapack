@@ -1,0 +1,62 @@
+{
+ "squirt": {
+  "sounds": [
+   "fludd:squirt"
+  ]
+ },
+ "refill": {
+  "sounds": [
+   "fludd:refill"
+  ]
+ },
+ "empty": {
+  "sounds": [
+   "fludd:empty"
+  ]
+ },
+ "shoot": {
+  "sounds": [
+   "fludd:shoot"
+  ]
+ },
+ "shoot_to_special": {
+  "sounds": [
+   "fludd:shoot_to_special"
+  ]
+ },
+ "special_to_shoot": {
+  "sounds": [
+   "fludd:special_to_shoot"
+  ]
+ },
+ "power_down": {
+  "sounds": [
+   "fludd:power_down"
+  ]
+ },
+ "box_kick": {
+  "sounds": [
+   "fludd:box_kick"
+  ]
+ },
+ "rocket_charge": {
+  "sounds": [
+   "fludd:rocket_charge"
+  ]
+ },
+ "rocket_launch": {
+  "sounds": [
+   "fludd:rocket_launch"
+  ]
+ },
+ "turbo_sprinkler": {
+  "sounds": [
+   "fludd:turbo_sprinkler"
+  ]
+ },
+ "equip_nozzle": {
+  "sounds": [
+   "fludd:equip_nozzle"
+  ]
+ }
+}

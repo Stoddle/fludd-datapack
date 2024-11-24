@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fludd:item/fludd",
+		"particle": "fludd:item/fludd"
+	},
+	"elements": [
+		{
+			"from": [7.995, 0, 7.995],
+			"to": [8.005, 0.01, 8.005],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.005, 8]},
+			"faces": {
+				"north": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"east": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"south": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"west": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"down": {"uv": [14, 14, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
